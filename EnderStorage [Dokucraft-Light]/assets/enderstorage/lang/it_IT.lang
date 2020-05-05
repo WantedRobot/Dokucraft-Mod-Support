@@ -1,0 +1,9 @@
+tile.enderchest|0.name=Baule d'omega
+tile.enderchest|1.name=Serbatoio d'omega
+item.enderpouch.name=Borsa d'omega
+enderstorage.serverop=Operatore
+
+enderstorage.command.usage=enderstorage <frequenza>|(<colore> <colore> <colore>) [proprietario]
+enderstorage.command.no_arguments=Numero invalido di argomenti
+enderstorage.command.no_freq=Frequenza invalida
+enderstorage.command.no_colour=Colore invalido: %s

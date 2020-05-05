@@ -1,0 +1,31 @@
+This support pack was compiled by sm284614 with textures from the Dokucraft: The Saga Continues community.
+
+Download the full texture pack here:
+http://www.minecraftforum.net/topic/513093-32x16x142-dokucraft-the-saga-continues/
+
+Missing textures:
+
+Item Icons:
+Workbench (uses anvil as placeholder)
+
+Armour textures:
+Cowleather armour texture
+Full Leather armour texture
+Assassin armour texture
+Commissar armour texture
+Crown 1 armour texture
+Crown 2 armour texture
+Officer armour texture
+Soldier 1 armour texture
+x407 armour texture
+
+Models:
+Barrel
+Barsign
+Candle
+Inkwell
+Lamp
+Mailbox1
+Mailbox2
+
+Last updated 7th May 2014
