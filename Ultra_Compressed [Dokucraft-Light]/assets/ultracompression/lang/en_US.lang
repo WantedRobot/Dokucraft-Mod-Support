@@ -1,0 +1,33 @@
+itemGroup.ultracompression=Ultra Compressed Blocks
+
+1x.prefix=Compressed
+2x.prefix=Double Compressed
+3x.prefix=Triple Compressed
+4x.prefix=Quadruple Compressed
+5x.prefix=Quintuple Compressed
+6x.prefix=Sextuple Compressed
+7x.prefix=Septuple Compressed
+8x.prefix=Octuple Compressed
+
+block.cobblestone.name=Cobblestone
+block.diamond.name=Diamond
+block.gold.name=Gold
+block.iron.name=Iron
+block.redstone.name=Redstone
+block.emerald.name=Emerald
+block.coal.name=Coal
+block.dirt.name=Dirt
+block.gravel.name=Gravel
+block.sand.name=Sand
+
+tooltip.cobblestone.itemtype=Cobblestone
+tooltip.dirt.itemtype=Dirt
+tooltip.gravel.itemtype=Gravel
+tooltip.sand.itemtype=Sand
+tooltip.diamond.itemtype=Diamonds
+tooltip.iron.itemtype=Iron Ingots
+tooltip.gold.itemtype=Gold Ingots
+tooltip.redstone.itemtype=Redstone Dust
+tooltip.lapis.itemtype=Lapis Lazuli
+tooltip.emerald.itemtype=Emeralds
+tooltip.coal.itemtype=Coal

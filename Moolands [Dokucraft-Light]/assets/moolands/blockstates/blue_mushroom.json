@@ -1,0 +1,34 @@
+{
+    
+	"variants": {
+        
+		"variant=north_west": { "model": "moolands:blue_mushroom_block_nw" },
+        
+		"variant=north": { "model": "moolands:blue_mushroom_block_n" },
+        
+		"variant=north_east": { "model": "moolands:blue_mushroom_block_ne" },
+        
+		"variant=west": { "model": "moolands:blue_mushroom_block_w" },
+        
+		"variant=center": { "model": "moolands:blue_mushroom_block_c" },
+        
+		"variant=east": { "model": "moolands:blue_mushroom_block_e" },
+        
+		"variant=south_west": { "model": "moolands:blue_mushroom_block_sw" },
+        
+		"variant=south": { "model": "moolands:blue_mushroom_block_s" },
+        
+		"variant=south_east": { "model": "moolands:blue_mushroom_block_se" },
+        
+		"variant=stem": { "model": "moolands:blue_mushroom_block_stem" },
+        
+		"variant=all_stem": { "model": "moolands:blue_mushroom_block_stem_all" },
+        
+		"variant=all_outside": { "model": "moolands:blue_mushroom_block_cap_all" },
+        
+		"variant=all_inside": { "model": "moolands:blue_mushroom_block_inside_all" }
+    
+	}
+
+}
+

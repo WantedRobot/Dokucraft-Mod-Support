@@ -1,0 +1,10 @@
+Texture Credits
+These are the people whose textures I or others had used to create the Warp Book support.
+Some of these have multiple credits, as only sections may have been used to create the Warp Book texture.
+If something isn't credited, it means that it was created from scratch and/or isn't in the DokuStash.
+
+Warp Book/Plate: Prohecy_Wrecker_16283
+Warp Page: luckyhouston_13790 and some other Dokucraft Light textures
+Warp Fuel: Schorl_2031
+Teleporter: Handsome_Dan_8712
+Book Cloner: Handsome_Dan_2369

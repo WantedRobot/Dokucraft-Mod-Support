@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "layer0": "tconstruct:items/frypan/head",
+        "broken0": "tconstruct:items/frypan/broken_head",
+        "layer1": "tconstruct:items/frypan/handle"
+    }
+}

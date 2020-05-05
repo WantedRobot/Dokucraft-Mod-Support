@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blocks/mushroom_block_inside",
+        "down": "blocks/mushroom_block_inside",
+        "up": "moolands:blocks/blue_outside",
+        "north": "blocks/mushroom_block_inside",
+        "east": "moolands:blocks/blue_outside",
+        "south": "moolands:blocks/blue_outside",
+        "west": "blocks/mushroom_block_inside"
+    }
+}

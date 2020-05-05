@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"normal": [
+			{ "model": "moolands:mooland_stone" },
+			{ "model": "moolands:mooland_stone", "y": 90 },
+			{ "model": "moolands:mooland_stone", "y": 180 },
+			{ "model": "moolands:mooland_stone", "y": 270 }
+		]
+	}
+}

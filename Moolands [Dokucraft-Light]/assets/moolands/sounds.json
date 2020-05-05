@@ -1,0 +1,23 @@
+{
+  "cow.ambient": {
+  	"category": "neutral",
+	"subtitle": "Awful cow sounds",
+	"sounds": [
+	    "moolands:cow_idle"
+	]
+  },
+  "cow.death": {
+  	"category": "neutral",
+	"subtitle": "Awful cow death",
+	"sounds": [
+	    "moolands:cow_death"
+	]
+  },
+  "cow.hurt": {
+	"category": "neutral",
+	"subtitle": "Awful cow hurt",
+	"sounds": [
+	    "moolands:cow_scream"
+	]
+  }
+}

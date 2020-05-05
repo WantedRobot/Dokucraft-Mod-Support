@@ -1,0 +1,8 @@
+{
+    "textures": {
+        "layer0": "tconstruct:items/cutlass/handle",
+        "layer1": "tconstruct:items/cutlass/blade",
+		"layer2": "tconstruct:items/cutlass/guard",
+		"broken1": "tconstruct:items/cutlass/broken_blade"
+    }
+}

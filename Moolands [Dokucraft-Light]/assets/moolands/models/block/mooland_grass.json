@@ -1,0 +1,9 @@
+{
+	"parent": "moolands:block/multi_texture_base",
+	"textures": {
+		"particle": "moolands:blocks/mooland_dirt",
+		"bottom": "moolands:blocks/mooland_dirt",
+		"top": "moolands:blocks/mooland_grass_top",
+		"side": "moolands:blocks/mooland_grass_side"
+	}
+}

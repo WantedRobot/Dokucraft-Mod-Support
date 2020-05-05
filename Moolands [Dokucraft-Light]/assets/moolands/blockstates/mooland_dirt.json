@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"normal": [
+			{ "model": "moolands:mooland_dirt" },
+			{ "model": "moolands:mooland_dirt", "y": 90 },
+			{ "model": "moolands:mooland_dirt", "y": 180 },
+			{ "model": "moolands:mooland_dirt", "y": 270 }
+		]
+	}
+}

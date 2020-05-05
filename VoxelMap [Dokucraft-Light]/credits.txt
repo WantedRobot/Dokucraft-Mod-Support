@@ -1,0 +1,2 @@
+VoxelMap updated and edited to v1.12.2 by kumozero, all other credits to Dokucraft community.
+Updated to v1.14.2 by SyndiShanX, using textures from the Stash, and Custom Made textures.

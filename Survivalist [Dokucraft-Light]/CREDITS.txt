@@ -1,0 +1,16 @@
+Some textures found in this mod support were gathered from the DokuStash. All other textures were created by @Ramireztime for Survivalist, however, they can be reused in any way, for future resourcepacks or updates.
+
+Textures used:
+Leather Armor Icons for [Armor Icons] by Yair10
+UUID: 9594 *
+
+Hardened Leather Armor for [Armor Textures] by Yair10 (helmet and chestplate)
+UUID: 9595 *
+
+Hardened Leather Armor for [Armor Textures] by Yair10 (leggings and boots)
+UUID: 9596 *
+
+"Rounded Bread" for [Food] by Kloporte
+UUID: 8387
+
+*These textures were slightly modified in appearance (darkened) for the purpose of being used as "hardened" leather armor.

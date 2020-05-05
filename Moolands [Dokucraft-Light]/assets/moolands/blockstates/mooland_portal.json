@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"axis=x": {
+			"model": "moolands:mooland_portal_ns"
+		},
+		"axis=z": {
+			"model": "moolands:mooland_portal_ew"
+		}
+	}
+}
