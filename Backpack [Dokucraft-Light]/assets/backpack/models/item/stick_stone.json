@@ -1,0 +1,13 @@
+{
+    "parent": "backpack:item/backpack_basic",
+    "display": {
+        "thirdperson": {
+            "rotation": [ 0, 90, -35 ],
+            "translation": [ 0, 1.25, -3.5 ],
+            "scale": [ 0.85, 0.85, 0.85 ]
+        }
+    },
+    "textures": {
+        "layer0": "backpack:items/stick_stone"
+    }
+}

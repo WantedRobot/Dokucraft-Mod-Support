@@ -1,0 +1,6 @@
+{
+    "parent": "backpack:item/backpack_basic",
+    "textures": {
+        "layer0": "backpack:items/backpack_big_pink"
+    }
+}
